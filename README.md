@@ -1,4 +1,4 @@
-## Top 5:
+## Top 5 programming languages:
 1. Java
 2. Typescript
 3. JavaScript
